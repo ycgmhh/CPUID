@@ -1,0 +1,7 @@
+用C语言写这么一个程式 
+
+要求通过CPUID指令，读取CPU相关信息,  程序要求显示下列CPU信息：
+CPU Vendor / Processor Name(包括主频);
+CPU Family  / Model  / Stepping ;
+
+
